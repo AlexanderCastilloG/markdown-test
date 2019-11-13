@@ -74,7 +74,7 @@ print("Hello world");
 <!--Imagenes Locales -->
 ![visual studio code logo](./vscode.png "vscode logo")
 
-<img src="./vscode.png" style="width:200px;"/>
+<img src="./vscode.png" style="width:200px; height=200px;"/>
 
 
 <!-- GITHUB MARKDOWN -->
