@@ -1,0 +1,9 @@
+Control+ Shift + p
+
+Escribir-> Markdown vista Previa
+
+Emojis en github
+
+git init 
+git add .
+git commit -m "markdown intro"
