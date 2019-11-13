@@ -7,3 +7,10 @@ Emojis en github
 git init 
 git add .
 git commit -m "markdown intro"
+git remote add origin https://github.com/AlexanderCastilloG/markdown-test.git
+git push -u origin master
+
+
+Emojis en github
+
+https://gist.github.com/rxaviers/7360908
